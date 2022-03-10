@@ -1,4 +1,24 @@
 h2, h3 {
-    font-family:cursive;
+   font-style: italic;
     font-weight: bold;
+}
+body{
+    margin-top: 0px;
+   
+}
+.Arancio{
+  color: rgba(248, 183, 43, 0.842);
+}
+div{
+    background-color: gainsboro;
+}
+#Profilo{
+    top: 0px;;
+    height: 40%;
+    width: 25%;
+
+}
+hr{
+    width: 5px;
+    color: rgba(248, 183, 43, 0.842);
 }
