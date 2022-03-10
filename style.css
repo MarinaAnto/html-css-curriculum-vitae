@@ -22,12 +22,23 @@ h2, h3 {
 #div_image{
     background-color: gainsboro;
     height: 15rem;
-    ;
-    
+    margin-bottom:-1.1% ;
+    margin-top: -1.2%;  
 }
 #main{
     margin:0% 25% 0% 25%;
+    
 }
 .linea{
     background-color: #e99a06;
+    height: 1.5px; ;
 }
+    @media (max-width:480px )  {
+       #main{
+           width:100%;
+           margin:0% 0% 0% 0%;
+       }
+    #div_image{
+        height:20rem;
+    }
+    }
