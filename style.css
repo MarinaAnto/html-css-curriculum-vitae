@@ -2,23 +2,32 @@ h2, h3 {
    font-style: italic;
     font-weight: bold;
 }
-body{
-    margin-top: 0px;
-   
-}
-.Arancio{
-  color: rgba(248, 183, 43, 0.842);
-}
-div{
-    background-color: gainsboro;
-}
-#Profilo{
-    top: 0px;;
-    height: 40%;
-    width: 25%;
 
+.Arancio {
+  color:#e99a06;
 }
-hr{
-    width: 5px;
-    color: rgba(248, 183, 43, 0.842);
+
+.centro {
+    text-align: center;
+}
+
+#image{
+   left:39%;
+   right:50%;
+   top:0%;
+    height: 10rem;
+    width: 10rem;
+    position: relative;
+}
+#div_image{
+    background-color: gainsboro;
+    height: 15rem;
+    ;
+    
+}
+#main{
+    margin:0% 25% 0% 25%;
+}
+.linea{
+    background-color: #e99a06;
 }
